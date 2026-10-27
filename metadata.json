@@ -1,0 +1,6 @@
+{
+  "name": "Mỗi Em Một Bước AI - Hệ sinh thái học tập thích ứng lớp 1",
+  "description": "Hệ sinh thái học tập thích ứng, cá nhân hóa tiến trình học Toán và Tiếng Việt cho học sinh lớp 1. Sản phẩm dự thi AI Giáo dục Việt Nam 2026 của cô Trịnh Thị Chung Thủy - Trường Tiểu học Hiển Khánh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
